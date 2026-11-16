@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Osman\\OneDrive\\Escritorio\\Examen_DA\\ElectroStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EABA45F-548D-486E-BA57-B40FEB4B21EB}|ElectroStore\\ElectroStore.csproj|c:\\users\\osman\\onedrive\\escritorio\\examen_da\\electrostore\\electrostore\\entities\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EABA45F-548D-486E-BA57-B40FEB4B21EB}|ElectroStore\\ElectroStore.csproj|solutionrelative:electrostore\\entities\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EABA45F-548D-486E-BA57-B40FEB4B21EB}|ElectroStore\\ElectroStore.csproj|C:\\Users\\Osman\\OneDrive\\Escritorio\\Examen_DA\\ElectroStore\\electrostore\\dal\\ventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EABA45F-548D-486E-BA57-B40FEB4B21EB}|ElectroStore\\ElectroStore.csproj|solutionrelative:electrostore\\dal\\ventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EABA45F-548D-486E-BA57-B40FEB4B21EB}|ElectroStore\\ElectroStore.csproj|C:\\Users\\Osman\\OneDrive\\Escritorio\\Examen_DA\\ElectroStore\\electrostore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EABA45F-548D-486E-BA57-B40FEB4B21EB}|ElectroStore\\ElectroStore.csproj|solutionrelative:electrostore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EABA45F-548D-486E-BA57-B40FEB4B21EB}|ElectroStore\\ElectroStore.csproj|c:\\users\\osman\\onedrive\\escritorio\\examen_da\\electrostore\\electrostore\\bill\\ventabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EABA45F-548D-486E-BA57-B40FEB4B21EB}|ElectroStore\\ElectroStore.csproj|solutionrelative:electrostore\\bill\\ventabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EABA45F-548D-486E-BA57-B40FEB4B21EB}|ElectroStore\\ElectroStore.csproj|C:\\Users\\Osman\\OneDrive\\Escritorio\\Examen_DA\\ElectroStore\\electrostore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EABA45F-548D-486E-BA57-B40FEB4B21EB}|ElectroStore\\ElectroStore.csproj|solutionrelative:electrostore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EABA45F-548D-486E-BA57-B40FEB4B21EB}|ElectroStore\\ElectroStore.csproj|C:\\Users\\Osman\\OneDrive\\Escritorio\\Examen_DA\\ElectroStore\\electrostore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6EABA45F-548D-486E-BA57-B40FEB4B21EB}|ElectroStore\\ElectroStore.csproj|solutionrelative:electrostore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EABA45F-548D-486E-BA57-B40FEB4B21EB}|ElectroStore\\ElectroStore.csproj|c:\\users\\osman\\onedrive\\escritorio\\examen_da\\electrostore\\electrostore\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6EABA45F-548D-486E-BA57-B40FEB4B21EB}|ElectroStore\\ElectroStore.csproj|solutionrelative:electrostore\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 14,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentaBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Osman\\OneDrive\\Escritorio\\Examen_DA\\ElectroStore\\ElectroStore\\BILL\\VentaBLL.cs",
+              "RelativeDocumentMoniker": "ElectroStore\\BILL\\VentaBLL.cs",
+              "ToolTip": "C:\\Users\\Osman\\OneDrive\\Escritorio\\Examen_DA\\ElectroStore\\ElectroStore\\BILL\\VentaBLL.cs",
+              "RelativeToolTip": "ElectroStore\\BILL\\VentaBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T15:34:35.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Modelo.cs",
+              "DocumentMoniker": "C:\\Users\\Osman\\OneDrive\\Escritorio\\Examen_DA\\ElectroStore\\ElectroStore\\Entities\\Modelo.cs",
+              "RelativeDocumentMoniker": "ElectroStore\\Entities\\Modelo.cs",
+              "ToolTip": "C:\\Users\\Osman\\OneDrive\\Escritorio\\Examen_DA\\ElectroStore\\ElectroStore\\Entities\\Modelo.cs",
+              "RelativeToolTip": "ElectroStore\\Entities\\Modelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T15:33:38.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Osman\\OneDrive\\Escritorio\\Examen_DA\\ElectroStore\\ElectroStore\\App.config",
+              "RelativeDocumentMoniker": "ElectroStore\\App.config",
+              "ToolTip": "C:\\Users\\Osman\\OneDrive\\Escritorio\\Examen_DA\\ElectroStore\\ElectroStore\\App.config",
+              "RelativeToolTip": "ElectroStore\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-15T03:40:27.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Osman\\OneDrive\\Escritorio\\Examen_DA\\ElectroStore\\ElectroStore\\Program.cs",
+              "RelativeDocumentMoniker": "ElectroStore\\Program.cs",
+              "ToolTip": "C:\\Users\\Osman\\OneDrive\\Escritorio\\Examen_DA\\ElectroStore\\ElectroStore\\Program.cs",
+              "RelativeToolTip": "ElectroStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T03:36:03.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Osman\\OneDrive\\Escritorio\\Examen_DA\\ElectroStore\\ElectroStore\\Form1.cs",
+              "RelativeDocumentMoniker": "ElectroStore\\Form1.cs",
+              "ToolTip": "C:\\Users\\Osman\\OneDrive\\Escritorio\\Examen_DA\\ElectroStore\\ElectroStore\\Form1.cs",
+              "RelativeToolTip": "ElectroStore\\Form1.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAuwDoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T03:33:45.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Osman\\OneDrive\\Escritorio\\Examen_DA\\ElectroStore\\ElectroStore\\DAL\\VentaDAL.cs",
+              "RelativeDocumentMoniker": "ElectroStore\\DAL\\VentaDAL.cs",
+              "ToolTip": "C:\\Users\\Osman\\OneDrive\\Escritorio\\Examen_DA\\ElectroStore\\ElectroStore\\DAL\\VentaDAL.cs",
+              "RelativeToolTip": "ElectroStore\\DAL\\VentaDAL.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAcwI0AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T03:28:40.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Osman\\OneDrive\\Escritorio\\Examen_DA\\ElectroStore\\ElectroStore\\Form1.cs",
+              "RelativeDocumentMoniker": "ElectroStore\\Form1.cs",
+              "ToolTip": "C:\\Users\\Osman\\OneDrive\\Escritorio\\Examen_DA\\ElectroStore\\ElectroStore\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ElectroStore\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T02:19:11.249Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
