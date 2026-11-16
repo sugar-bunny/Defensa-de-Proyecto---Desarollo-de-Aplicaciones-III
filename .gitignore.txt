@@ -1,9 +1,0 @@
-# Carpetas de compilación y paquetes de NuGet
-[Bb]in/
-[Oo]bj/
-packages/
-
-# Archivos de usuario de Visual Studio
-*.suo
-*.user
-*.csproj.user
