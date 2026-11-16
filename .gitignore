@@ -1,8 +1,7 @@
 # Ignorar archivos y carpetas extra
 Otros Archivos/
-BD_ELECTROSTORE.sql
 Diagrama*
-Proyecto Tienda de Celulares.docx
+
 
 # Ignorar compilación y paquetes de .NET
 [Bb]in/
